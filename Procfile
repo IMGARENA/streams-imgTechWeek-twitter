@@ -1,0 +1,1 @@
+java -jar imgTechWeek-1.0.jar
